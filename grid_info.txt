@@ -1,0 +1,7 @@
+RPM_X min: 0 and RPM_X max is 2443
+RPM_Y min: 2 and RPM_Y max is 371
+------------------------------------------------
+PHYSICAL AUDIT RESULTS:
+Reference Register Delay: 2.082
+Compared Register Delay: 2.047
+Total Path Skew: 0.0349999999999997

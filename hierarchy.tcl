@@ -121,7 +121,6 @@ proc location {grid_fh} {
     puts $grid_fh "Reference Register Delay: $ref_delay"
     puts $grid_fh "Compared Register Delay: $cmp_delay"
     puts $grid_fh "Total Path Skew: $physical_skew"
-    puts "------------------------------------------------"
 }
 proc util {resource_fh} {
     set mapping_dict {}
@@ -201,6 +200,7 @@ proc main {} {
 
     close $hier_fh
     close $cell_fh
+    close $grid_fh
     close $resource_fh
 
 }

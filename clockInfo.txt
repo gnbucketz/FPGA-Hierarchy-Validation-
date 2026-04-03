@@ -1,0 +1,90 @@
+***********************
+Running Pre-CRP Checker
+***********************
+Number of global clocks: 1
+	Number of BUFGCE: 0
+	Number of BUFGCE_HDIO: 1
+	Number of BUFG_CTRL: 0
+	Number of BUFGCE_DIV: 0
+	Number of BUFG_GT: 0
+	Number of BUFG_PS: 0
+	Number of BUFG_FABRIC: 0
+	Running suboptimal placement checker for 1 clocks (and their loads) which do not have the CLOCK_LOW_FANOUT property but have a fanout less than 2000...
+********************************
+Clock Net Route Info (CRP Input)
+********************************
+Clock 1: clk_IBUF_BUFG
+	Clock source type: BUFGCE_HDIO
+	Clock source region: X0Y2
+	Clock locked root: X1Y2
+	Clock regions with locked loads: X0Y2 X1Y2 
+	initial rect ((0, 2), (1, 2))
+
+
+
+*****************
+User Constraints:
+*****************
+No user constraints found
+
+
+***********************
+Running Pre-CRP Checker
+***********************
+Number of global clocks: 1
+	Number of BUFGCE: 0
+	Number of BUFGCE_HDIO: 1
+	Number of BUFG_CTRL: 0
+	Number of BUFGCE_DIV: 0
+	Number of BUFG_GT: 0
+	Number of BUFG_PS: 0
+	Number of BUFG_FABRIC: 0
+	Running suboptimal placement checker for 1 clocks (and their loads) which do not have the CLOCK_LOW_FANOUT property but have a fanout less than 2000...
+********************************
+Clock Net Route Info (CRP Input)
+********************************
+Clock 1: clk_IBUF_BUFG
+	Clock source type: BUFGCE_HDIO
+	Clock source region: X0Y2
+	Clock locked root: X1Y2
+	Clock regions with locked loads: X0Y2 X1Y2 
+	initial rect ((0, 2), (1, 2))
+
+
+
+*****************
+User Constraints:
+*****************
+No user constraints found
+
+
+***********************
+Running Pre-CRP Checker
+***********************
+Number of global clocks: 1
+	Number of BUFGCE: 0
+	Number of BUFGCE_HDIO: 1
+	Number of BUFG_CTRL: 0
+	Number of BUFGCE_DIV: 0
+	Number of BUFG_GT: 0
+	Number of BUFG_PS: 0
+	Number of BUFG_FABRIC: 0
+	Running suboptimal placement checker for 1 clocks (and their loads) which do not have the CLOCK_LOW_FANOUT property but have a fanout less than 2000...
+********************************
+Clock Net Route Info (CRP Input)
+********************************
+Clock 1: clk_IBUF_BUFG
+	Clock source type: BUFGCE_HDIO
+	Clock source region: X0Y2
+	Clock locked root: X0Y2
+	Clock regions with locked loads: X0Y2 X1Y2 
+	initial rect ((0, 2), (1, 2))
+
+
+
+*****************
+User Constraints:
+*****************
+No user constraints found
+
+

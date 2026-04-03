@@ -1,302 +1,307 @@
-Cell: u_lf/i__carry__0_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X30Y153 -> SITE: SLICE_X45Y153
-Cell: u_lf/accum_var1_inferred__0/i__carry__0 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X30Y153 -> SITE: SLICE_X45Y153
-Cell: u_pd/counter[14]_i_2 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y153 -> SITE: SLICE_X47Y153
-Cell: u_pd/counter[15]_i_2 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y153 -> SITE: SLICE_X47Y153
-Cell: u_pd/counter_reg[15] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y153 -> SITE: SLICE_X47Y153
-Cell: u_pd/counter[14]_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y153 -> SITE: SLICE_X47Y153
-Cell: u_pd/counter_reg[14] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y153 -> SITE: SLICE_X47Y153
-Cell: u_pd/counter[12]_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y153 -> SITE: SLICE_X47Y153
-Cell: u_pd/counter[11]_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y153 -> SITE: SLICE_X47Y153
-Cell: u_pd/counter_reg[11] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y153 -> SITE: SLICE_X47Y153
-Cell: u_pd/counter_reg[12] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y153 -> SITE: SLICE_X47Y153
-Cell: u_pd/counter[15]_i_3 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y153 -> SITE: SLICE_X47Y153
-Cell: u_pd/counter[13]_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y153 -> SITE: SLICE_X47Y153
-Cell: u_pd/counter_reg[13] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y153 -> SITE: SLICE_X47Y153
-Cell: u_lf/i__carry_i_6 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X30Y152 -> SITE: SLICE_X45Y152
-Cell: u_lf/i__carry_i_14 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X30Y152 -> SITE: SLICE_X45Y152
-Cell: u_lf/i__carry_i_5 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X30Y152 -> SITE: SLICE_X45Y152
-Cell: u_lf/i__carry_i_13 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X30Y152 -> SITE: SLICE_X45Y152
-Cell: u_lf/i__carry_i_4 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X30Y152 -> SITE: SLICE_X45Y152
-Cell: u_lf/i__carry_i_12 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X30Y152 -> SITE: SLICE_X45Y152
-Cell: u_lf/accum_var1_inferred__0/i__carry -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X30Y152 -> SITE: SLICE_X45Y152
-Cell: u_lf/i__carry_i_11 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X30Y152 -> SITE: SLICE_X45Y152
-Cell: u_lf/i__carry_i_3 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X30Y152 -> SITE: SLICE_X45Y152
-Cell: u_lf/i__carry_i_10 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X30Y152 -> SITE: SLICE_X45Y152
-Cell: u_lf/i__carry_i_9 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X30Y152 -> SITE: SLICE_X45Y152
-Cell: u_lf/i__carry_i_2 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X30Y152 -> SITE: SLICE_X45Y152
-Cell: u_lf/i__carry_i_8 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X30Y152 -> SITE: SLICE_X45Y152
-Cell: u_lf/i__carry_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X30Y152 -> SITE: SLICE_X45Y152
-Cell: u_lf/i__carry_i_7 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X30Y152 -> SITE: SLICE_X45Y152
-Cell: u_lf/accum_calc__1_carry__1_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X30Y152 -> SITE: SLICE_X46Y152
-Cell: u_lf/accum_calc__1_carry__1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X30Y152 -> SITE: SLICE_X46Y152
-Cell: u_pd/accum_calc__1_carry__0_i_4 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X30Y152 -> SITE: SLICE_X46Y152
-Cell: u_pd/accum_calc__1_carry__0_i_3 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X30Y152 -> SITE: SLICE_X46Y152
-Cell: u_pd/accum_calc__1_carry__0_i_2 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X30Y152 -> SITE: SLICE_X46Y152
-Cell: u_pd/tdc[15]_i_8 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y152 -> SITE: SLICE_X47Y152
-Cell: u_pd/tdc_reg[9] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y152 -> SITE: SLICE_X47Y152
-Cell: u_pd/tdc[15]_i_7 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y152 -> SITE: SLICE_X47Y152
-Cell: u_pd/tdc_reg[10] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y152 -> SITE: SLICE_X47Y152
-Cell: u_pd/tdc[15]_i_6 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y152 -> SITE: SLICE_X47Y152
-Cell: u_pd/tdc_reg[15]_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y152 -> SITE: SLICE_X47Y152
-Cell: u_pd/tdc_reg[11] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y152 -> SITE: SLICE_X47Y152
-Cell: u_pd/tdc[15]_i_5 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y152 -> SITE: SLICE_X47Y152
-Cell: u_pd/tdc_reg[12] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y152 -> SITE: SLICE_X47Y152
-Cell: u_pd/tdc[15]_i_4 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y152 -> SITE: SLICE_X47Y152
-Cell: u_pd/tdc_reg[13] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y152 -> SITE: SLICE_X47Y152
-Cell: u_pd/tdc[15]_i_3 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y152 -> SITE: SLICE_X47Y152
-Cell: u_pd/tdc_reg[14] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y152 -> SITE: SLICE_X47Y152
-Cell: u_pd/tdc[15]_i_2 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y152 -> SITE: SLICE_X47Y152
-Cell: u_pd/tdc_reg[15] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y152 -> SITE: SLICE_X47Y152
-Cell: u_lf/accum_var1_carry_i_4 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X29Y151 -> SITE: SLICE_X44Y151
-Cell: u_lf/accum_var1_carry_i_11 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X29Y151 -> SITE: SLICE_X44Y151
-Cell: u_lf/accum_var1_carry_i_3 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X29Y151 -> SITE: SLICE_X44Y151
-Cell: u_lf/accum_var1_carry_i_10 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X29Y151 -> SITE: SLICE_X44Y151
-Cell: u_lf/accum_var1_carry_i_2 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X29Y151 -> SITE: SLICE_X44Y151
-Cell: u_lf/accum_var1_carry_i_9 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X29Y151 -> SITE: SLICE_X44Y151
-Cell: u_lf/accum_var1_carry -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X29Y151 -> SITE: SLICE_X44Y151
-Cell: u_lf/accum_var1_carry_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X29Y151 -> SITE: SLICE_X44Y151
-Cell: u_lf/accum_var1_carry_i_8 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X29Y151 -> SITE: SLICE_X44Y151
-Cell: u_lf/accum_var1_carry_i_7 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X29Y151 -> SITE: SLICE_X44Y151
-Cell: u_lf/accum_var1_carry_i_6 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X29Y151 -> SITE: SLICE_X44Y151
-Cell: u_lf/accum_var1_carry_i_5 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X29Y151 -> SITE: SLICE_X44Y151
-Cell: u_lf/accum_var[15]_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X30Y151 -> SITE: SLICE_X45Y151
-Cell: u_lf/accum_var_reg[15] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X30Y151 -> SITE: SLICE_X45Y151
-Cell: u_lf/accum_var[7]_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X30Y151 -> SITE: SLICE_X45Y151
-Cell: u_lf/accum_var[13]_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X30Y151 -> SITE: SLICE_X45Y151
-Cell: u_lf/accum_var_reg[13] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X30Y151 -> SITE: SLICE_X45Y151
-Cell: u_lf/accum_var_reg[7] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X30Y151 -> SITE: SLICE_X45Y151
-Cell: u_lf/accum_var[9]_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X30Y151 -> SITE: SLICE_X45Y151
-Cell: u_lf/accum_var[10]_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X30Y151 -> SITE: SLICE_X45Y151
-Cell: u_lf/accum_var_reg[10] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X30Y151 -> SITE: SLICE_X45Y151
-Cell: u_lf/accum_var_reg[9] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X30Y151 -> SITE: SLICE_X45Y151
-Cell: u_lf/accum_var[12]_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X30Y151 -> SITE: SLICE_X45Y151
-Cell: u_lf/accum_var[11]_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X30Y151 -> SITE: SLICE_X45Y151
-Cell: u_lf/accum_var_reg[11] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X30Y151 -> SITE: SLICE_X45Y151
-Cell: u_lf/accum_var_reg[12] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X30Y151 -> SITE: SLICE_X45Y151
-Cell: u_pd/accum_calc__1_carry__0_i_5 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X30Y151 -> SITE: SLICE_X46Y151
-Cell: u_pd/accum_calc__1_carry__0_i_13 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X30Y151 -> SITE: SLICE_X46Y151
-Cell: u_pd/accum_calc__1_carry__0_i_12 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X30Y151 -> SITE: SLICE_X46Y151
-Cell: u_lf/accum_calc__1_carry__0_i_11 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X30Y151 -> SITE: SLICE_X46Y151
-Cell: u_lf/accum_calc__1_carry__0 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X30Y151 -> SITE: SLICE_X46Y151
-Cell: u_lf/accum_calc__1_carry__0_i_10 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X30Y151 -> SITE: SLICE_X46Y151
-Cell: u_pd/accum_calc__1_carry__0_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X30Y151 -> SITE: SLICE_X46Y151
-Cell: u_lf/accum_calc__1_carry__0_i_9 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X30Y151 -> SITE: SLICE_X46Y151
-Cell: u_lf/accum_calc__1_carry__0_i_8 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X30Y151 -> SITE: SLICE_X46Y151
-Cell: u_lf/accum_calc__1_carry__0_i_7 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X30Y151 -> SITE: SLICE_X46Y151
-Cell: u_lf/accum_calc__1_carry__0_i_6 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X30Y151 -> SITE: SLICE_X46Y151
-Cell: u_pd/tdc[8]_i_10 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y151 -> SITE: SLICE_X47Y151
-Cell: u_pd/tdc[8]_i_9 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y151 -> SITE: SLICE_X47Y151
-Cell: u_pd/tdc[8]_i_8 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y151 -> SITE: SLICE_X47Y151
-Cell: u_pd/tdc_reg[8]_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y151 -> SITE: SLICE_X47Y151
-Cell: u_pd/tdc[8]_i_7 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y151 -> SITE: SLICE_X47Y151
-Cell: u_pd/tdc_reg[4] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y151 -> SITE: SLICE_X47Y151
-Cell: u_pd/tdc[8]_i_6 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y151 -> SITE: SLICE_X47Y151
-Cell: u_pd/tdc_reg[5] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y151 -> SITE: SLICE_X47Y151
-Cell: u_pd/tdc[8]_i_5 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y151 -> SITE: SLICE_X47Y151
-Cell: u_pd/tdc_reg[6] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y151 -> SITE: SLICE_X47Y151
-Cell: u_pd/tdc[8]_i_4 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y151 -> SITE: SLICE_X47Y151
-Cell: u_pd/tdc_reg[7] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y151 -> SITE: SLICE_X47Y151
-Cell: u_pd/tdc[8]_i_3 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y151 -> SITE: SLICE_X47Y151
-Cell: u_pd/tdc_reg[8] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y151 -> SITE: SLICE_X47Y151
-Cell: u_pd/counter[4]_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X32Y151 -> SITE: SLICE_X48Y151
-Cell: u_pd/counter_reg[4] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X32Y151 -> SITE: SLICE_X48Y151
-Cell: u_pd/counter[3]_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X32Y151 -> SITE: SLICE_X48Y151
-Cell: u_pd/counter[2]_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X32Y151 -> SITE: SLICE_X48Y151
-Cell: u_pd/counter_reg[2] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X32Y151 -> SITE: SLICE_X48Y151
-Cell: u_pd/counter_reg[3] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X32Y151 -> SITE: SLICE_X48Y151
-Cell: u_pd/counter[5]_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X32Y151 -> SITE: SLICE_X48Y151
-Cell: u_pd/counter[1]_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X32Y151 -> SITE: SLICE_X48Y151
-Cell: u_pd/counter_reg[1] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X32Y151 -> SITE: SLICE_X48Y151
-Cell: u_pd/counter_reg[5] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X32Y151 -> SITE: SLICE_X48Y151
-Cell: u_pd/valid_reg -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X32Y151 -> SITE: SLICE_X48Y151
-Cell: u_pd/counter[5]_i_2 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X32Y151 -> SITE: SLICE_X48Y151
-Cell: u_pd/counter[9]_i_2 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X32Y151 -> SITE: SLICE_X48Y151
-Cell: u_pd/accum_calc__1_carry_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X30Y150 -> SITE: SLICE_X45Y150
-Cell: u_lf/accum_var[5]_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X30Y150 -> SITE: SLICE_X45Y150
-Cell: u_lf/accum_var[4]_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X30Y150 -> SITE: SLICE_X45Y150
-Cell: u_lf/accum_var_reg[4] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X30Y150 -> SITE: SLICE_X45Y150
-Cell: u_lf/accum_var_reg[5] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X30Y150 -> SITE: SLICE_X45Y150
-Cell: u_lf/accum_var[3]_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X30Y150 -> SITE: SLICE_X45Y150
-Cell: u_lf/accum_var[2]_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X30Y150 -> SITE: SLICE_X45Y150
-Cell: u_lf/accum_var_reg[2] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X30Y150 -> SITE: SLICE_X45Y150
-Cell: u_lf/accum_var_reg[3] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X30Y150 -> SITE: SLICE_X45Y150
-Cell: u_lf/accum_var[8]_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X30Y150 -> SITE: SLICE_X45Y150
-Cell: u_lf/accum_var[6]_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X30Y150 -> SITE: SLICE_X45Y150
-Cell: u_lf/accum_var_reg[6] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X30Y150 -> SITE: SLICE_X45Y150
-Cell: u_lf/accum_var_reg[8] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X30Y150 -> SITE: SLICE_X45Y150
-Cell: u_pd/accum_calc__1_carry_i_7 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X30Y150 -> SITE: SLICE_X46Y150
-Cell: u_pd/accum_calc__1_carry_i_15 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X30Y150 -> SITE: SLICE_X46Y150
-Cell: u_pd/accum_calc__1_carry_i_6 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X30Y150 -> SITE: SLICE_X46Y150
-Cell: u_pd/accum_calc__1_carry_i_14 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X30Y150 -> SITE: SLICE_X46Y150
-Cell: u_pd/accum_calc__1_carry_i_5 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X30Y150 -> SITE: SLICE_X46Y150
-Cell: u_pd/accum_calc__1_carry_i_13 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X30Y150 -> SITE: SLICE_X46Y150
-Cell: u_lf/accum_calc__1_carry -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X30Y150 -> SITE: SLICE_X46Y150
-Cell: u_pd/accum_calc__1_carry_i_4 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X30Y150 -> SITE: SLICE_X46Y150
-Cell: u_pd/accum_calc__1_carry_i_12 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X30Y150 -> SITE: SLICE_X46Y150
-Cell: u_pd/accum_calc__1_carry_i_3 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X30Y150 -> SITE: SLICE_X46Y150
-Cell: u_pd/accum_calc__1_carry_i_11 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X30Y150 -> SITE: SLICE_X46Y150
-Cell: u_pd/accum_calc__1_carry_i_2 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X30Y150 -> SITE: SLICE_X46Y150
-Cell: u_pd/accum_calc__1_carry_i_10 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X30Y150 -> SITE: SLICE_X46Y150
-Cell: u_pd/accum_calc__1_carry_i_9 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X30Y150 -> SITE: SLICE_X46Y150
-Cell: u_pd/accum_calc__1_carry_i_8 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X30Y150 -> SITE: SLICE_X46Y150
-Cell: u_pd/counter[9]_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y150 -> SITE: SLICE_X47Y150
-Cell: u_pd/counter_reg[9] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y150 -> SITE: SLICE_X47Y150
-Cell: u_pd/counter[8]_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y150 -> SITE: SLICE_X47Y150
-Cell: u_pd/counter[7]_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y150 -> SITE: SLICE_X47Y150
-Cell: u_pd/counter_reg[7] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y150 -> SITE: SLICE_X47Y150
-Cell: u_pd/counter_reg[8] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y150 -> SITE: SLICE_X47Y150
-Cell: u_pd/counter[6]_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y150 -> SITE: SLICE_X47Y150
-Cell: u_pd/counter[10]_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y150 -> SITE: SLICE_X47Y150
-Cell: u_pd/counter_reg[10] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y150 -> SITE: SLICE_X47Y150
-Cell: u_pd/counter_reg[6] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y150 -> SITE: SLICE_X47Y150
-Cell: u_pd/cmp_1_reg -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y150 -> SITE: SLICE_X47Y150
-Cell: u_pd/cmp_2_reg -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y150 -> SITE: SLICE_X47Y150
-Cell: u_pd/ref_1_reg -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y150 -> SITE: SLICE_X47Y150
-Cell: u_pd/ref_2_reg -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y150 -> SITE: SLICE_X47Y150
-Cell: u_pd/tdc[8]_i_2 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y150 -> SITE: SLICE_X47Y150
-Cell: u_pd/counter[10]_i_2 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y150 -> SITE: SLICE_X47Y150
-Cell: u_pd/counter[15]_i_4 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X32Y150 -> SITE: SLICE_X48Y150
-Cell: u_pd/counting_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X32Y150 -> SITE: SLICE_X48Y150
-Cell: u_pd/counter[0]_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X32Y150 -> SITE: SLICE_X48Y150
-Cell: u_pd/counter_reg[0] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X32Y150 -> SITE: SLICE_X48Y150
-Cell: u_pd/cmp_prev_reg -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X32Y150 -> SITE: SLICE_X48Y150
-Cell: u_pd/counting_reg -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X32Y150 -> SITE: SLICE_X48Y150
-Cell: u_pd/ref_prev_reg -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X32Y150 -> SITE: SLICE_X48Y150
-Cell: u_pd/valid_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X32Y150 -> SITE: SLICE_X48Y150
-Cell: u_pd/counter[15]_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X32Y150 -> SITE: SLICE_X48Y150
-Cell: u_lf/accum_var[1]_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X30Y149 -> SITE: SLICE_X45Y149
-Cell: u_lf/accum_var[0]_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X30Y149 -> SITE: SLICE_X45Y149
-Cell: u_lf/accum_var_reg[0] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X30Y149 -> SITE: SLICE_X45Y149
-Cell: u_lf/accum_var_reg[1] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X30Y149 -> SITE: SLICE_X45Y149
-Cell: u_lf/accum_var[14]_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X30Y149 -> SITE: SLICE_X45Y149
-Cell: u_lf/accum_prev -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X30Y149 -> SITE: SLICE_X45Y149
-Cell: u_lf/accum_prev_reg[16] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X30Y149 -> SITE: SLICE_X45Y149
-Cell: u_lf/accum_var_reg[14] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X30Y149 -> SITE: SLICE_X45Y149
-Cell: u_nco/updated_phase_carry__0_i_8 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y149 -> SITE: SLICE_X47Y149
-Cell: u_nco/phase_reg[8] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y149 -> SITE: SLICE_X47Y149
-Cell: u_nco/updated_phase_carry__0_i_7 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y149 -> SITE: SLICE_X47Y149
-Cell: u_nco/phase_reg[9] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y149 -> SITE: SLICE_X47Y149
-Cell: u_nco/updated_phase_carry__0_i_6 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y149 -> SITE: SLICE_X47Y149
-Cell: u_nco/updated_phase_carry__0 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y149 -> SITE: SLICE_X47Y149
-Cell: u_nco/phase_reg[10] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y149 -> SITE: SLICE_X47Y149
-Cell: u_nco/updated_phase_carry__0_i_5 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y149 -> SITE: SLICE_X47Y149
-Cell: u_nco/phase_reg[11] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y149 -> SITE: SLICE_X47Y149
-Cell: u_nco/updated_phase_carry__0_i_4 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y149 -> SITE: SLICE_X47Y149
-Cell: u_nco/phase_reg[12] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y149 -> SITE: SLICE_X47Y149
-Cell: u_nco/updated_phase_carry__0_i_3 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y149 -> SITE: SLICE_X47Y149
-Cell: u_nco/phase_reg[13] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y149 -> SITE: SLICE_X47Y149
-Cell: u_nco/updated_phase_carry__0_i_2 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y149 -> SITE: SLICE_X47Y149
-Cell: u_nco/phase_reg[14] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y149 -> SITE: SLICE_X47Y149
-Cell: u_nco/updated_phase_carry__0_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y149 -> SITE: SLICE_X47Y149
-Cell: u_nco/phase_reg[15] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y149 -> SITE: SLICE_X47Y149
-Cell: u_nco/updated_phase__0_carry__0_i_8 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X32Y149 -> SITE: SLICE_X48Y149
-Cell: u_nco/updated_phase__0_carry__0_i_7 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X32Y149 -> SITE: SLICE_X48Y149
-Cell: u_nco/updated_phase__0_carry__0_i_6 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X32Y149 -> SITE: SLICE_X48Y149
-Cell: u_nco/updated_phase__0_carry__0 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X32Y149 -> SITE: SLICE_X48Y149
-Cell: u_nco/updated_phase__0_carry__0_i_5 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X32Y149 -> SITE: SLICE_X48Y149
-Cell: u_nco/updated_phase__0_carry__0_i_4 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X32Y149 -> SITE: SLICE_X48Y149
-Cell: u_nco/updated_phase__0_carry__0_i_3 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X32Y149 -> SITE: SLICE_X48Y149
-Cell: u_nco/updated_phase__0_carry__0_i_2 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X32Y149 -> SITE: SLICE_X48Y149
-Cell: u_nco/updated_phase__0_carry__0_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X32Y149 -> SITE: SLICE_X48Y149
-Cell: u_nco/sig_out_reg -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X32Y149 -> SITE: SLICE_X48Y149
-Cell: u_nco/sig_out_reg_lopt_replica -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X32Y149 -> SITE: SLICE_X48Y149
-Cell: u_nco/updated_phase_carry_i_8 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y148 -> SITE: SLICE_X47Y148
-Cell: u_nco/phase_reg[0] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y148 -> SITE: SLICE_X47Y148
-Cell: u_nco/updated_phase_carry_i_7 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y148 -> SITE: SLICE_X47Y148
-Cell: u_nco/phase_reg[1] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y148 -> SITE: SLICE_X47Y148
-Cell: u_nco/updated_phase_carry_i_6 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y148 -> SITE: SLICE_X47Y148
-Cell: u_nco/updated_phase_carry -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y148 -> SITE: SLICE_X47Y148
-Cell: u_nco/phase_reg[2] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y148 -> SITE: SLICE_X47Y148
-Cell: u_nco/updated_phase_carry_i_5 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y148 -> SITE: SLICE_X47Y148
-Cell: u_nco/phase_reg[3] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y148 -> SITE: SLICE_X47Y148
-Cell: u_nco/updated_phase_carry_i_4 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y148 -> SITE: SLICE_X47Y148
-Cell: u_nco/phase_reg[4] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y148 -> SITE: SLICE_X47Y148
-Cell: u_nco/updated_phase_carry_i_3 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y148 -> SITE: SLICE_X47Y148
-Cell: u_nco/phase_reg[5] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y148 -> SITE: SLICE_X47Y148
-Cell: u_nco/updated_phase_carry_i_2 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y148 -> SITE: SLICE_X47Y148
-Cell: u_nco/phase_reg[6] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y148 -> SITE: SLICE_X47Y148
-Cell: u_nco/updated_phase_carry_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y148 -> SITE: SLICE_X47Y148
-Cell: u_nco/phase_reg[7] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X31Y148 -> SITE: SLICE_X47Y148
-Cell: u_nco/updated_phase__0_carry_i_8 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X32Y148 -> SITE: SLICE_X48Y148
-Cell: u_nco/updated_phase__0_carry_i_7 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X32Y148 -> SITE: SLICE_X48Y148
-Cell: u_nco/updated_phase__0_carry_i_6 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X32Y148 -> SITE: SLICE_X48Y148
-Cell: u_nco/updated_phase__0_carry -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X32Y148 -> SITE: SLICE_X48Y148
-Cell: u_nco/updated_phase__0_carry_i_5 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X32Y148 -> SITE: SLICE_X48Y148
-Cell: u_nco/updated_phase__0_carry_i_4 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X32Y148 -> SITE: SLICE_X48Y148
-Cell: u_nco/updated_phase__0_carry_i_3 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X32Y148 -> SITE: SLICE_X48Y148
-Cell: u_nco/updated_phase__0_carry_i_2 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X32Y148 -> SITE: SLICE_X48Y148
-Cell: u_nco/updated_phase__0_carry_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_R_X32Y148 -> SITE: SLICE_X48Y148
-Cell: clk_IBUF_BUFG_inst -> SLR: SLR0 -> CR:X1Y2 -> TILE: CMT_RIGHT_X32Y120 -> SITE: BUFGCE_X0Y53
-Cell: clk_IBUF_inst/IBUFCTRL_INST -> SLR: SLR0 -> CR:X1Y2 -> TILE: HPIO_RIGHT_X32Y120 -> SITE: IOB_X2Y125
-Cell: clk_IBUF_inst/INBUF_INST -> SLR: SLR0 -> CR:X1Y2 -> TILE: HPIO_RIGHT_X32Y120 -> SITE: IOB_X2Y125
-Cell: pll_out_OBUF_inst -> SLR: SLR0 -> CR:X1Y2 -> TILE: HPIO_RIGHT_X32Y120 -> SITE: IOB_X2Y126
-Cell: ext_rst_IBUF_inst/IBUFCTRL_INST -> SLR: SLR0 -> CR:X1Y2 -> TILE: HPIO_RIGHT_X32Y120 -> SITE: IOB_X2Y127
-Cell: ext_rst_IBUF_inst/INBUF_INST -> SLR: SLR0 -> CR:X1Y2 -> TILE: HPIO_RIGHT_X32Y120 -> SITE: IOB_X2Y127
-Cell: ref_sig_IBUF_inst/IBUFCTRL_INST -> SLR: SLR0 -> CR:X1Y2 -> TILE: HPIO_RIGHT_X32Y120 -> SITE: IOB_X2Y128
-Cell: ref_sig_IBUF_inst/INBUF_INST -> SLR: SLR0 -> CR:X1Y2 -> TILE: HPIO_RIGHT_X32Y120 -> SITE: IOB_X2Y128
+Cell: u_pd/ref_1_reg -> SLR: SLR0 -> CR:X0Y2 -> TILE: CLEL_R_X0Y179 -> SITE: SLICE_X0Y179
+Cell: u_nco/sig_out_reg_lopt_replica -> SLR: SLR0 -> CR:X0Y2 -> TILE: CLEL_R_X0Y179 -> SITE: SLICE_X0Y179
+Cell: u_lf/accum_var1_carry_i_4 -> SLR: SLR0 -> CR:X0Y2 -> TILE: CLEM_X18Y177 -> SITE: SLICE_X28Y177
+Cell: u_lf/accum_var1_carry_i_11 -> SLR: SLR0 -> CR:X0Y2 -> TILE: CLEM_X18Y177 -> SITE: SLICE_X28Y177
+Cell: u_lf/accum_var1_carry_i_3 -> SLR: SLR0 -> CR:X0Y2 -> TILE: CLEM_X18Y177 -> SITE: SLICE_X28Y177
+Cell: u_lf/accum_var1_carry_i_10 -> SLR: SLR0 -> CR:X0Y2 -> TILE: CLEM_X18Y177 -> SITE: SLICE_X28Y177
+Cell: u_lf/accum_var1_carry_i_2 -> SLR: SLR0 -> CR:X0Y2 -> TILE: CLEM_X18Y177 -> SITE: SLICE_X28Y177
+Cell: u_lf/accum_var1_carry_i_9 -> SLR: SLR0 -> CR:X0Y2 -> TILE: CLEM_X18Y177 -> SITE: SLICE_X28Y177
+Cell: u_lf/accum_var1_carry -> SLR: SLR0 -> CR:X0Y2 -> TILE: CLEM_X18Y177 -> SITE: SLICE_X28Y177
+Cell: u_lf/accum_var1_carry_i_1 -> SLR: SLR0 -> CR:X0Y2 -> TILE: CLEM_X18Y177 -> SITE: SLICE_X28Y177
+Cell: u_lf/accum_var1_carry_i_8 -> SLR: SLR0 -> CR:X0Y2 -> TILE: CLEM_X18Y177 -> SITE: SLICE_X28Y177
+Cell: u_lf/accum_var1_carry_i_7 -> SLR: SLR0 -> CR:X0Y2 -> TILE: CLEM_X18Y177 -> SITE: SLICE_X28Y177
+Cell: u_lf/accum_var1_carry_i_6 -> SLR: SLR0 -> CR:X0Y2 -> TILE: CLEM_X18Y177 -> SITE: SLICE_X28Y177
+Cell: u_lf/accum_var1_carry_i_5 -> SLR: SLR0 -> CR:X0Y2 -> TILE: CLEM_X18Y177 -> SITE: SLICE_X28Y177
+Cell: ext_rst_IBUF_inst/IBUFCTRL_INST -> SLR: SLR0 -> CR:X0Y2 -> TILE: HDIO_TOP_RIGHT_X9Y150 -> SITE: IOB_X0Y140
+Cell: ext_rst_IBUF_inst/INBUF_INST -> SLR: SLR0 -> CR:X0Y2 -> TILE: HDIO_TOP_RIGHT_X9Y150 -> SITE: IOB_X0Y140
+Cell: ref_sig_IBUF_inst/IBUFCTRL_INST -> SLR: SLR0 -> CR:X0Y2 -> TILE: HDIO_TOP_RIGHT_X9Y150 -> SITE: IOB_X0Y141
+Cell: ref_sig_IBUF_inst/INBUF_INST -> SLR: SLR0 -> CR:X0Y2 -> TILE: HDIO_TOP_RIGHT_X9Y150 -> SITE: IOB_X0Y141
+Cell: clk_IBUF_BUFG_inst -> SLR: SLR0 -> CR:X0Y2 -> TILE: RCLK_HDIO_X9Y149 -> SITE: BUFGCE_HDIO_X0Y5
+Cell: clk_IBUF_inst/IBUFCTRL_INST -> SLR: SLR0 -> CR:X0Y2 -> TILE: HDIO_BOT_RIGHT_X9Y120 -> SITE: IOB_X0Y112
+Cell: clk_IBUF_inst/INBUF_INST -> SLR: SLR0 -> CR:X0Y2 -> TILE: HDIO_BOT_RIGHT_X9Y120 -> SITE: IOB_X0Y112
+Cell: u_lf/accum_var[12]_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X19Y179 -> SITE: SLICE_X30Y179
+Cell: u_lf/accum_var[11]_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X19Y179 -> SITE: SLICE_X30Y179
+Cell: u_lf/accum_var_reg[11] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X19Y179 -> SITE: SLICE_X30Y179
+Cell: u_lf/accum_var_reg[12] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X19Y179 -> SITE: SLICE_X30Y179
+Cell: u_lf/accum_var[9]_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X19Y179 -> SITE: SLICE_X30Y179
+Cell: u_lf/accum_var[10]_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X19Y179 -> SITE: SLICE_X30Y179
+Cell: u_lf/accum_var_reg[10] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X19Y179 -> SITE: SLICE_X30Y179
+Cell: u_lf/accum_var_reg[9] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X19Y179 -> SITE: SLICE_X30Y179
+Cell: u_lf/accum_var[1]_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X19Y179 -> SITE: SLICE_X30Y179
+Cell: u_lf/accum_var[0]_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X19Y179 -> SITE: SLICE_X30Y179
+Cell: u_lf/accum_var_reg[0] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X19Y179 -> SITE: SLICE_X30Y179
+Cell: u_lf/accum_var_reg[1] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X19Y179 -> SITE: SLICE_X30Y179
+Cell: u_lf/accum_var[14]_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X19Y179 -> SITE: SLICE_X30Y179
+Cell: u_lf/accum_prev -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X19Y179 -> SITE: SLICE_X30Y179
+Cell: u_lf/accum_prev_reg[16] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X19Y179 -> SITE: SLICE_X30Y179
+Cell: u_lf/accum_var_reg[14] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X19Y179 -> SITE: SLICE_X30Y179
+Cell: u_pd/counter[15]_i_4 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X20Y179 -> SITE: SLICE_X31Y179
+Cell: u_pd/counting_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X20Y179 -> SITE: SLICE_X31Y179
+Cell: u_pd/counter[0]_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X20Y179 -> SITE: SLICE_X31Y179
+Cell: u_pd/counter_reg[0] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X20Y179 -> SITE: SLICE_X31Y179
+Cell: u_pd/counter[5]_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X20Y179 -> SITE: SLICE_X31Y179
+Cell: u_pd/counter[1]_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X20Y179 -> SITE: SLICE_X31Y179
+Cell: u_pd/counter_reg[1] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X20Y179 -> SITE: SLICE_X31Y179
+Cell: u_pd/counter_reg[5] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X20Y179 -> SITE: SLICE_X31Y179
+Cell: u_pd/cmp_prev_reg -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X20Y179 -> SITE: SLICE_X31Y179
+Cell: u_pd/counting_reg -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X20Y179 -> SITE: SLICE_X31Y179
+Cell: u_pd/ref_2_reg -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X20Y179 -> SITE: SLICE_X31Y179
+Cell: u_pd/ref_prev_reg -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X20Y179 -> SITE: SLICE_X31Y179
+Cell: u_pd/valid_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X20Y179 -> SITE: SLICE_X31Y179
+Cell: u_pd/counter[15]_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X20Y179 -> SITE: SLICE_X31Y179
+Cell: u_lf/i__carry__0_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X19Y178 -> SITE: SLICE_X29Y178
+Cell: u_lf/accum_var1_inferred__0/i__carry__0 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X19Y178 -> SITE: SLICE_X29Y178
+Cell: u_lf/accum_calc__1_carry__1_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X19Y178 -> SITE: SLICE_X30Y178
+Cell: u_lf/accum_calc__1_carry__1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X19Y178 -> SITE: SLICE_X30Y178
+Cell: u_pd/counter[5]_i_2 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X19Y178 -> SITE: SLICE_X30Y178
+Cell: u_pd/accum_calc__1_carry__0_i_4 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X19Y178 -> SITE: SLICE_X30Y178
+Cell: u_pd/accum_calc__1_carry__0_i_3 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X19Y178 -> SITE: SLICE_X30Y178
+Cell: u_pd/accum_calc__1_carry__0_i_2 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X19Y178 -> SITE: SLICE_X30Y178
+Cell: u_pd/counter[9]_i_2 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X19Y178 -> SITE: SLICE_X30Y178
+Cell: u_pd/tdc[15]_i_8 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X20Y178 -> SITE: SLICE_X31Y178
+Cell: u_pd/tdc_reg[9] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X20Y178 -> SITE: SLICE_X31Y178
+Cell: u_pd/tdc[15]_i_7 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X20Y178 -> SITE: SLICE_X31Y178
+Cell: u_pd/tdc_reg[10] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X20Y178 -> SITE: SLICE_X31Y178
+Cell: u_pd/tdc[15]_i_6 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X20Y178 -> SITE: SLICE_X31Y178
+Cell: u_pd/tdc_reg[15]_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X20Y178 -> SITE: SLICE_X31Y178
+Cell: u_pd/tdc_reg[11] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X20Y178 -> SITE: SLICE_X31Y178
+Cell: u_pd/tdc[15]_i_5 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X20Y178 -> SITE: SLICE_X31Y178
+Cell: u_pd/tdc_reg[12] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X20Y178 -> SITE: SLICE_X31Y178
+Cell: u_pd/tdc[15]_i_4 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X20Y178 -> SITE: SLICE_X31Y178
+Cell: u_pd/tdc_reg[13] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X20Y178 -> SITE: SLICE_X31Y178
+Cell: u_pd/tdc[15]_i_3 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X20Y178 -> SITE: SLICE_X31Y178
+Cell: u_pd/tdc_reg[14] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X20Y178 -> SITE: SLICE_X31Y178
+Cell: u_pd/tdc[15]_i_2 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X20Y178 -> SITE: SLICE_X31Y178
+Cell: u_pd/tdc_reg[15] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X20Y178 -> SITE: SLICE_X31Y178
+Cell: u_pd/counter[13]_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X20Y178 -> SITE: SLICE_X32Y178
+Cell: u_pd/counter[15]_i_3 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X20Y178 -> SITE: SLICE_X32Y178
+Cell: u_pd/counter[14]_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X20Y178 -> SITE: SLICE_X32Y178
+Cell: u_pd/counter_reg[14] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X20Y178 -> SITE: SLICE_X32Y178
+Cell: u_pd/counter[12]_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X20Y178 -> SITE: SLICE_X32Y178
+Cell: u_pd/counter[11]_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X20Y178 -> SITE: SLICE_X32Y178
+Cell: u_pd/counter_reg[11] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X20Y178 -> SITE: SLICE_X32Y178
+Cell: u_pd/counter_reg[12] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X20Y178 -> SITE: SLICE_X32Y178
+Cell: u_pd/counter_reg[13] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X20Y178 -> SITE: SLICE_X32Y178
+Cell: u_pd/counter[15]_i_2 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X20Y178 -> SITE: SLICE_X32Y178
+Cell: u_pd/counter_reg[15] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X20Y178 -> SITE: SLICE_X32Y178
+Cell: u_lf/i__carry_i_6 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X19Y177 -> SITE: SLICE_X29Y177
+Cell: u_lf/i__carry_i_14 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X19Y177 -> SITE: SLICE_X29Y177
+Cell: u_lf/i__carry_i_5 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X19Y177 -> SITE: SLICE_X29Y177
+Cell: u_lf/i__carry_i_13 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X19Y177 -> SITE: SLICE_X29Y177
+Cell: u_lf/i__carry_i_4 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X19Y177 -> SITE: SLICE_X29Y177
+Cell: u_lf/i__carry_i_12 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X19Y177 -> SITE: SLICE_X29Y177
+Cell: u_lf/accum_var1_inferred__0/i__carry -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X19Y177 -> SITE: SLICE_X29Y177
+Cell: u_lf/i__carry_i_11 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X19Y177 -> SITE: SLICE_X29Y177
+Cell: u_lf/i__carry_i_3 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X19Y177 -> SITE: SLICE_X29Y177
+Cell: u_lf/i__carry_i_10 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X19Y177 -> SITE: SLICE_X29Y177
+Cell: u_pd/valid_reg -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X19Y177 -> SITE: SLICE_X29Y177
+Cell: u_lf/i__carry_i_9 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X19Y177 -> SITE: SLICE_X29Y177
+Cell: u_lf/i__carry_i_2 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X19Y177 -> SITE: SLICE_X29Y177
+Cell: u_lf/i__carry_i_8 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X19Y177 -> SITE: SLICE_X29Y177
+Cell: u_lf/i__carry_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X19Y177 -> SITE: SLICE_X29Y177
+Cell: u_lf/i__carry_i_7 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X19Y177 -> SITE: SLICE_X29Y177
+Cell: u_pd/accum_calc__1_carry__0_i_5 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X19Y177 -> SITE: SLICE_X30Y177
+Cell: u_pd/accum_calc__1_carry__0_i_13 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X19Y177 -> SITE: SLICE_X30Y177
+Cell: u_pd/accum_calc__1_carry__0_i_12 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X19Y177 -> SITE: SLICE_X30Y177
+Cell: u_lf/accum_calc__1_carry__0_i_11 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X19Y177 -> SITE: SLICE_X30Y177
+Cell: u_lf/accum_calc__1_carry__0 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X19Y177 -> SITE: SLICE_X30Y177
+Cell: u_lf/accum_calc__1_carry__0_i_10 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X19Y177 -> SITE: SLICE_X30Y177
+Cell: u_pd/accum_calc__1_carry__0_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X19Y177 -> SITE: SLICE_X30Y177
+Cell: u_lf/accum_calc__1_carry__0_i_9 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X19Y177 -> SITE: SLICE_X30Y177
+Cell: u_lf/accum_calc__1_carry__0_i_8 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X19Y177 -> SITE: SLICE_X30Y177
+Cell: u_lf/accum_calc__1_carry__0_i_7 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X19Y177 -> SITE: SLICE_X30Y177
+Cell: u_lf/accum_calc__1_carry__0_i_6 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X19Y177 -> SITE: SLICE_X30Y177
+Cell: u_pd/tdc[8]_i_10 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X20Y177 -> SITE: SLICE_X31Y177
+Cell: u_pd/tdc[8]_i_9 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X20Y177 -> SITE: SLICE_X31Y177
+Cell: u_pd/tdc[8]_i_8 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X20Y177 -> SITE: SLICE_X31Y177
+Cell: u_pd/tdc_reg[8]_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X20Y177 -> SITE: SLICE_X31Y177
+Cell: u_pd/tdc[8]_i_7 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X20Y177 -> SITE: SLICE_X31Y177
+Cell: u_pd/tdc_reg[4] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X20Y177 -> SITE: SLICE_X31Y177
+Cell: u_pd/tdc[8]_i_6 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X20Y177 -> SITE: SLICE_X31Y177
+Cell: u_pd/tdc_reg[5] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X20Y177 -> SITE: SLICE_X31Y177
+Cell: u_pd/tdc[8]_i_5 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X20Y177 -> SITE: SLICE_X31Y177
+Cell: u_pd/tdc_reg[6] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X20Y177 -> SITE: SLICE_X31Y177
+Cell: u_pd/tdc[8]_i_4 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X20Y177 -> SITE: SLICE_X31Y177
+Cell: u_pd/tdc_reg[7] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X20Y177 -> SITE: SLICE_X31Y177
+Cell: u_pd/tdc[8]_i_3 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X20Y177 -> SITE: SLICE_X31Y177
+Cell: u_pd/tdc_reg[8] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X20Y177 -> SITE: SLICE_X31Y177
+Cell: u_pd/counter[9]_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X20Y177 -> SITE: SLICE_X32Y177
+Cell: u_pd/counter_reg[9] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X20Y177 -> SITE: SLICE_X32Y177
+Cell: u_pd/counter[8]_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X20Y177 -> SITE: SLICE_X32Y177
+Cell: u_pd/counter[7]_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X20Y177 -> SITE: SLICE_X32Y177
+Cell: u_pd/counter_reg[7] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X20Y177 -> SITE: SLICE_X32Y177
+Cell: u_pd/counter_reg[8] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X20Y177 -> SITE: SLICE_X32Y177
+Cell: u_pd/counter[6]_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X20Y177 -> SITE: SLICE_X32Y177
+Cell: u_pd/counter[10]_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X20Y177 -> SITE: SLICE_X32Y177
+Cell: u_pd/counter_reg[10] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X20Y177 -> SITE: SLICE_X32Y177
+Cell: u_pd/counter_reg[6] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X20Y177 -> SITE: SLICE_X32Y177
+Cell: u_pd/counter[10]_i_2 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X20Y177 -> SITE: SLICE_X32Y177
+Cell: u_pd/counter[14]_i_2 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X20Y177 -> SITE: SLICE_X32Y177
+Cell: u_lf/accum_var[15]_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X19Y176 -> SITE: SLICE_X29Y176
+Cell: u_lf/accum_var_reg[15] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X19Y176 -> SITE: SLICE_X29Y176
+Cell: u_lf/accum_var[8]_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X19Y176 -> SITE: SLICE_X29Y176
+Cell: u_lf/accum_var[6]_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X19Y176 -> SITE: SLICE_X29Y176
+Cell: u_lf/accum_var_reg[6] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X19Y176 -> SITE: SLICE_X29Y176
+Cell: u_lf/accum_var_reg[8] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X19Y176 -> SITE: SLICE_X29Y176
+Cell: u_lf/accum_var[3]_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X19Y176 -> SITE: SLICE_X29Y176
+Cell: u_lf/accum_var[2]_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X19Y176 -> SITE: SLICE_X29Y176
+Cell: u_lf/accum_var_reg[2] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X19Y176 -> SITE: SLICE_X29Y176
+Cell: u_lf/accum_var_reg[3] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X19Y176 -> SITE: SLICE_X29Y176
+Cell: u_lf/accum_var[5]_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X19Y176 -> SITE: SLICE_X29Y176
+Cell: u_lf/accum_var[4]_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X19Y176 -> SITE: SLICE_X29Y176
+Cell: u_lf/accum_var_reg[4] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X19Y176 -> SITE: SLICE_X29Y176
+Cell: u_lf/accum_var_reg[5] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X19Y176 -> SITE: SLICE_X29Y176
+Cell: u_pd/accum_calc__1_carry_i_7 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X19Y176 -> SITE: SLICE_X30Y176
+Cell: u_pd/accum_calc__1_carry_i_15 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X19Y176 -> SITE: SLICE_X30Y176
+Cell: u_pd/accum_calc__1_carry_i_6 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X19Y176 -> SITE: SLICE_X30Y176
+Cell: u_pd/accum_calc__1_carry_i_14 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X19Y176 -> SITE: SLICE_X30Y176
+Cell: u_pd/accum_calc__1_carry_i_5 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X19Y176 -> SITE: SLICE_X30Y176
+Cell: u_pd/accum_calc__1_carry_i_13 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X19Y176 -> SITE: SLICE_X30Y176
+Cell: u_lf/accum_calc__1_carry -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X19Y176 -> SITE: SLICE_X30Y176
+Cell: u_pd/accum_calc__1_carry_i_4 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X19Y176 -> SITE: SLICE_X30Y176
+Cell: u_pd/accum_calc__1_carry_i_12 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X19Y176 -> SITE: SLICE_X30Y176
+Cell: u_pd/accum_calc__1_carry_i_3 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X19Y176 -> SITE: SLICE_X30Y176
+Cell: u_pd/accum_calc__1_carry_i_11 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X19Y176 -> SITE: SLICE_X30Y176
+Cell: u_pd/accum_calc__1_carry_i_2 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X19Y176 -> SITE: SLICE_X30Y176
+Cell: u_pd/accum_calc__1_carry_i_10 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X19Y176 -> SITE: SLICE_X30Y176
+Cell: u_pd/accum_calc__1_carry_i_9 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X19Y176 -> SITE: SLICE_X30Y176
+Cell: u_pd/accum_calc__1_carry_i_8 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X19Y176 -> SITE: SLICE_X30Y176
+Cell: u_pd/counter[4]_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X20Y176 -> SITE: SLICE_X31Y176
+Cell: u_pd/counter_reg[4] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X20Y176 -> SITE: SLICE_X31Y176
+Cell: u_pd/counter[3]_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X20Y176 -> SITE: SLICE_X31Y176
+Cell: u_pd/counter[2]_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X20Y176 -> SITE: SLICE_X31Y176
+Cell: u_pd/counter_reg[2] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X20Y176 -> SITE: SLICE_X31Y176
+Cell: u_pd/counter_reg[3] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X20Y176 -> SITE: SLICE_X31Y176
+Cell: u_pd/tdc[8]_i_2 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X20Y176 -> SITE: SLICE_X31Y176
+Cell: u_pd/accum_calc__1_carry_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X20Y176 -> SITE: SLICE_X31Y176
+Cell: u_lf/accum_var[7]_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X20Y176 -> SITE: SLICE_X31Y176
+Cell: u_lf/accum_var[13]_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X20Y176 -> SITE: SLICE_X31Y176
+Cell: u_lf/accum_var_reg[13] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X20Y176 -> SITE: SLICE_X31Y176
+Cell: u_lf/accum_var_reg[7] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X20Y176 -> SITE: SLICE_X31Y176
+Cell: u_nco/updated_phase_carry__0_i_8 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X19Y175 -> SITE: SLICE_X29Y175
+Cell: u_nco/phase_reg[8] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X19Y175 -> SITE: SLICE_X29Y175
+Cell: u_nco/updated_phase_carry__0_i_7 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X19Y175 -> SITE: SLICE_X29Y175
+Cell: u_nco/phase_reg[9] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X19Y175 -> SITE: SLICE_X29Y175
+Cell: u_nco/updated_phase_carry__0_i_6 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X19Y175 -> SITE: SLICE_X29Y175
+Cell: u_nco/updated_phase_carry__0 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X19Y175 -> SITE: SLICE_X29Y175
+Cell: u_nco/phase_reg[10] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X19Y175 -> SITE: SLICE_X29Y175
+Cell: u_nco/updated_phase_carry__0_i_5 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X19Y175 -> SITE: SLICE_X29Y175
+Cell: u_nco/phase_reg[11] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X19Y175 -> SITE: SLICE_X29Y175
+Cell: u_nco/updated_phase_carry__0_i_4 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X19Y175 -> SITE: SLICE_X29Y175
+Cell: u_nco/phase_reg[12] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X19Y175 -> SITE: SLICE_X29Y175
+Cell: u_nco/updated_phase_carry__0_i_3 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X19Y175 -> SITE: SLICE_X29Y175
+Cell: u_nco/phase_reg[13] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X19Y175 -> SITE: SLICE_X29Y175
+Cell: u_nco/updated_phase_carry__0_i_2 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X19Y175 -> SITE: SLICE_X29Y175
+Cell: u_nco/phase_reg[14] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X19Y175 -> SITE: SLICE_X29Y175
+Cell: u_nco/updated_phase_carry__0_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X19Y175 -> SITE: SLICE_X29Y175
+Cell: u_nco/phase_reg[15] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X19Y175 -> SITE: SLICE_X29Y175
+Cell: u_nco/updated_phase__0_carry__0_i_8 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X19Y175 -> SITE: SLICE_X30Y175
+Cell: u_nco/updated_phase__0_carry__0_i_7 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X19Y175 -> SITE: SLICE_X30Y175
+Cell: u_nco/updated_phase__0_carry__0_i_6 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X19Y175 -> SITE: SLICE_X30Y175
+Cell: u_nco/updated_phase__0_carry__0 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X19Y175 -> SITE: SLICE_X30Y175
+Cell: u_nco/updated_phase__0_carry__0_i_5 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X19Y175 -> SITE: SLICE_X30Y175
+Cell: u_nco/updated_phase__0_carry__0_i_4 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X19Y175 -> SITE: SLICE_X30Y175
+Cell: u_nco/updated_phase__0_carry__0_i_3 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X19Y175 -> SITE: SLICE_X30Y175
+Cell: u_nco/updated_phase__0_carry__0_i_2 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X19Y175 -> SITE: SLICE_X30Y175
+Cell: u_nco/updated_phase__0_carry__0_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X19Y175 -> SITE: SLICE_X30Y175
+Cell: u_nco/sig_out_reg -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X19Y175 -> SITE: SLICE_X30Y175
+Cell: u_nco/updated_phase_carry_i_8 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X19Y174 -> SITE: SLICE_X29Y174
+Cell: u_nco/phase_reg[0] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X19Y174 -> SITE: SLICE_X29Y174
+Cell: u_nco/updated_phase_carry_i_7 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X19Y174 -> SITE: SLICE_X29Y174
+Cell: u_nco/phase_reg[1] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X19Y174 -> SITE: SLICE_X29Y174
+Cell: u_nco/updated_phase_carry_i_6 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X19Y174 -> SITE: SLICE_X29Y174
+Cell: u_nco/updated_phase_carry -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X19Y174 -> SITE: SLICE_X29Y174
+Cell: u_nco/phase_reg[2] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X19Y174 -> SITE: SLICE_X29Y174
+Cell: u_nco/updated_phase_carry_i_5 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X19Y174 -> SITE: SLICE_X29Y174
+Cell: u_nco/phase_reg[3] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X19Y174 -> SITE: SLICE_X29Y174
+Cell: u_nco/updated_phase_carry_i_4 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X19Y174 -> SITE: SLICE_X29Y174
+Cell: u_nco/phase_reg[4] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X19Y174 -> SITE: SLICE_X29Y174
+Cell: u_nco/updated_phase_carry_i_3 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X19Y174 -> SITE: SLICE_X29Y174
+Cell: u_nco/phase_reg[5] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X19Y174 -> SITE: SLICE_X29Y174
+Cell: u_nco/updated_phase_carry_i_2 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X19Y174 -> SITE: SLICE_X29Y174
+Cell: u_nco/phase_reg[6] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X19Y174 -> SITE: SLICE_X29Y174
+Cell: u_nco/updated_phase_carry_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X19Y174 -> SITE: SLICE_X29Y174
+Cell: u_nco/phase_reg[7] -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X19Y174 -> SITE: SLICE_X29Y174
+Cell: u_nco/updated_phase__0_carry_i_8 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X19Y174 -> SITE: SLICE_X30Y174
+Cell: u_nco/updated_phase__0_carry_i_7 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X19Y174 -> SITE: SLICE_X30Y174
+Cell: u_nco/updated_phase__0_carry_i_6 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X19Y174 -> SITE: SLICE_X30Y174
+Cell: u_nco/updated_phase__0_carry -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X19Y174 -> SITE: SLICE_X30Y174
+Cell: u_nco/updated_phase__0_carry_i_5 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X19Y174 -> SITE: SLICE_X30Y174
+Cell: u_nco/updated_phase__0_carry_i_4 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X19Y174 -> SITE: SLICE_X30Y174
+Cell: u_nco/updated_phase__0_carry_i_3 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X19Y174 -> SITE: SLICE_X30Y174
+Cell: u_nco/updated_phase__0_carry_i_2 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X19Y174 -> SITE: SLICE_X30Y174
+Cell: u_nco/updated_phase__0_carry_i_1 -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEL_R_X19Y174 -> SITE: SLICE_X30Y174
+Cell: u_pd/cmp_1_reg -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X19Y173 -> SITE: SLICE_X29Y173
+Cell: u_pd/cmp_2_reg -> SLR: SLR0 -> CR:X1Y2 -> TILE: CLEM_X19Y173 -> SITE: SLICE_X29Y173
+Cell: pll_out_OBUF_inst -> SLR: SLR0 -> CR:X1Y2 -> TILE: HPIO_RIGHT_X32Y120 -> SITE: IOB_X2Y127
 ============================================================================================================================
 CELL COUNTER
 ============================================================================================================================
-Cell Name: LUT1: 20
-Cell Name: CARRY8: 12
-Cell Name: LUT6: 10
-Cell Name: LUT4: 15
 Cell Name: FDCE: 65
-Cell Name: LUT3: 32
-Cell Name: LUT5: 10
+Cell Name: LUT1: 20
 Cell Name: LUT2: 58
-Cell Name: FDPE: 6
-Cell Name: BUFGCE: 1
+Cell Name: CARRY8: 12
 Cell Name: IBUFCTRL: 3
 Cell Name: INBUF: 3
+Cell Name: BUFGCE: 1
+Cell Name: LUT3: 32
+Cell Name: FDPE: 6
+Cell Name: LUT5: 10
+Cell Name: LUT6: 10
+Cell Name: LUT4: 15
 Cell Name: OBUF: 1
 ============================================================================================================================
 CELL MAPPING (each section should add up to same count)
 ============================================================================================================================
 SLR: SLR0: 236
-CR: SLR0 X1Y2: 236
-TILE: SLR0 X1Y2 CLEM_R_X30Y153: 2
-TILE: SLR0 X1Y2 CLEL_R_X31Y153: 12
-TILE: SLR0 X1Y2 CLEM_R_X30Y152: 15
-TILE: SLR0 X1Y2 CLEL_R_X30Y152: 5
-TILE: SLR0 X1Y2 CLEL_R_X31Y152: 15
-TILE: SLR0 X1Y2 CLEL_R_X29Y151: 12
-TILE: SLR0 X1Y2 CLEM_R_X30Y151: 14
-TILE: SLR0 X1Y2 CLEL_R_X30Y151: 11
-TILE: SLR0 X1Y2 CLEL_R_X31Y151: 14
-TILE: SLR0 X1Y2 CLEM_R_X32Y151: 13
-TILE: SLR0 X1Y2 CLEM_R_X30Y150: 13
-TILE: SLR0 X1Y2 CLEL_R_X30Y150: 15
-TILE: SLR0 X1Y2 CLEL_R_X31Y150: 16
-TILE: SLR0 X1Y2 CLEM_R_X32Y150: 9
-TILE: SLR0 X1Y2 CLEM_R_X30Y149: 8
-TILE: SLR0 X1Y2 CLEL_R_X31Y149: 17
-TILE: SLR0 X1Y2 CLEM_R_X32Y149: 11
-TILE: SLR0 X1Y2 CLEL_R_X31Y148: 17
-TILE: SLR0 X1Y2 CLEM_R_X32Y148: 9
-TILE: SLR0 X1Y2 CMT_RIGHT_X32Y120: 1
-TILE: SLR0 X1Y2 HPIO_RIGHT_X32Y120: 7
-SITE: SLR0 X1Y2 CLEM_R_X30Y153 SLICE_X45Y153: 2
-SITE: SLR0 X1Y2 CLEL_R_X31Y153 SLICE_X47Y153: 12
-SITE: SLR0 X1Y2 CLEM_R_X30Y152 SLICE_X45Y152: 15
-SITE: SLR0 X1Y2 CLEL_R_X30Y152 SLICE_X46Y152: 5
-SITE: SLR0 X1Y2 CLEL_R_X31Y152 SLICE_X47Y152: 15
-SITE: SLR0 X1Y2 CLEL_R_X29Y151 SLICE_X44Y151: 12
-SITE: SLR0 X1Y2 CLEM_R_X30Y151 SLICE_X45Y151: 14
-SITE: SLR0 X1Y2 CLEL_R_X30Y151 SLICE_X46Y151: 11
-SITE: SLR0 X1Y2 CLEL_R_X31Y151 SLICE_X47Y151: 14
-SITE: SLR0 X1Y2 CLEM_R_X32Y151 SLICE_X48Y151: 13
-SITE: SLR0 X1Y2 CLEM_R_X30Y150 SLICE_X45Y150: 13
-SITE: SLR0 X1Y2 CLEL_R_X30Y150 SLICE_X46Y150: 15
-SITE: SLR0 X1Y2 CLEL_R_X31Y150 SLICE_X47Y150: 16
-SITE: SLR0 X1Y2 CLEM_R_X32Y150 SLICE_X48Y150: 9
-SITE: SLR0 X1Y2 CLEM_R_X30Y149 SLICE_X45Y149: 8
-SITE: SLR0 X1Y2 CLEL_R_X31Y149 SLICE_X47Y149: 17
-SITE: SLR0 X1Y2 CLEM_R_X32Y149 SLICE_X48Y149: 11
-SITE: SLR0 X1Y2 CLEL_R_X31Y148 SLICE_X47Y148: 17
-SITE: SLR0 X1Y2 CLEM_R_X32Y148 SLICE_X48Y148: 9
-SITE: SLR0 X1Y2 CMT_RIGHT_X32Y120 BUFGCE_X0Y53: 1
-SITE: SLR0 X1Y2 HPIO_RIGHT_X32Y120 IOB_X2Y125: 2
-SITE: SLR0 X1Y2 HPIO_RIGHT_X32Y120 IOB_X2Y126: 1
-SITE: SLR0 X1Y2 HPIO_RIGHT_X32Y120 IOB_X2Y127: 2
-SITE: SLR0 X1Y2 HPIO_RIGHT_X32Y120 IOB_X2Y128: 2
+CR: SLR0 X0Y2: 21
+CR: SLR0 X1Y2: 215
+TILE: SLR0 X0Y2 CLEL_R_X0Y179: 2
+TILE: SLR0 X0Y2 CLEM_X18Y177: 12
+TILE: SLR0 X0Y2 HDIO_TOP_RIGHT_X9Y150: 4
+TILE: SLR0 X0Y2 RCLK_HDIO_X9Y149: 1
+TILE: SLR0 X0Y2 HDIO_BOT_RIGHT_X9Y120: 2
+TILE: SLR0 X1Y2 CLEL_R_X19Y179: 16
+TILE: SLR0 X1Y2 CLEM_X20Y179: 14
+TILE: SLR0 X1Y2 CLEM_X19Y178: 2
+TILE: SLR0 X1Y2 CLEL_R_X19Y178: 7
+TILE: SLR0 X1Y2 CLEM_X20Y178: 15
+TILE: SLR0 X1Y2 CLEL_R_X20Y178: 11
+TILE: SLR0 X1Y2 CLEM_X19Y177: 16
+TILE: SLR0 X1Y2 CLEL_R_X19Y177: 11
+TILE: SLR0 X1Y2 CLEM_X20Y177: 14
+TILE: SLR0 X1Y2 CLEL_R_X20Y177: 12
+TILE: SLR0 X1Y2 CLEM_X19Y176: 14
+TILE: SLR0 X1Y2 CLEL_R_X19Y176: 15
+TILE: SLR0 X1Y2 CLEM_X20Y176: 12
+TILE: SLR0 X1Y2 CLEM_X19Y175: 17
+TILE: SLR0 X1Y2 CLEL_R_X19Y175: 10
+TILE: SLR0 X1Y2 CLEM_X19Y174: 17
+TILE: SLR0 X1Y2 CLEL_R_X19Y174: 9
+TILE: SLR0 X1Y2 CLEM_X19Y173: 2
+TILE: SLR0 X1Y2 HPIO_RIGHT_X32Y120: 1
+SITE: SLR0 X0Y2 CLEL_R_X0Y179 SLICE_X0Y179: 2
+SITE: SLR0 X0Y2 CLEM_X18Y177 SLICE_X28Y177: 12
+SITE: SLR0 X0Y2 HDIO_TOP_RIGHT_X9Y150 IOB_X0Y140: 2
+SITE: SLR0 X0Y2 HDIO_TOP_RIGHT_X9Y150 IOB_X0Y141: 2
+SITE: SLR0 X0Y2 RCLK_HDIO_X9Y149 BUFGCE_HDIO_X0Y5: 1
+SITE: SLR0 X0Y2 HDIO_BOT_RIGHT_X9Y120 IOB_X0Y112: 2
+SITE: SLR0 X1Y2 CLEL_R_X19Y179 SLICE_X30Y179: 16
+SITE: SLR0 X1Y2 CLEM_X20Y179 SLICE_X31Y179: 14
+SITE: SLR0 X1Y2 CLEM_X19Y178 SLICE_X29Y178: 2
+SITE: SLR0 X1Y2 CLEL_R_X19Y178 SLICE_X30Y178: 7
+SITE: SLR0 X1Y2 CLEM_X20Y178 SLICE_X31Y178: 15
+SITE: SLR0 X1Y2 CLEL_R_X20Y178 SLICE_X32Y178: 11
+SITE: SLR0 X1Y2 CLEM_X19Y177 SLICE_X29Y177: 16
+SITE: SLR0 X1Y2 CLEL_R_X19Y177 SLICE_X30Y177: 11
+SITE: SLR0 X1Y2 CLEM_X20Y177 SLICE_X31Y177: 14
+SITE: SLR0 X1Y2 CLEL_R_X20Y177 SLICE_X32Y177: 12
+SITE: SLR0 X1Y2 CLEM_X19Y176 SLICE_X29Y176: 14
+SITE: SLR0 X1Y2 CLEL_R_X19Y176 SLICE_X30Y176: 15
+SITE: SLR0 X1Y2 CLEM_X20Y176 SLICE_X31Y176: 12
+SITE: SLR0 X1Y2 CLEM_X19Y175 SLICE_X29Y175: 17
+SITE: SLR0 X1Y2 CLEL_R_X19Y175 SLICE_X30Y175: 10
+SITE: SLR0 X1Y2 CLEM_X19Y174 SLICE_X29Y174: 17
+SITE: SLR0 X1Y2 CLEL_R_X19Y174 SLICE_X30Y174: 9
+SITE: SLR0 X1Y2 CLEM_X19Y173 SLICE_X29Y173: 2
+SITE: SLR0 X1Y2 HPIO_RIGHT_X32Y120 IOB_X2Y127: 1
