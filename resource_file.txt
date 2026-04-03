@@ -1,9 +1,0 @@
-Total LUTs: 112
-Total LUTs available: 70560
-Total utilization percent: 0.16
-Logic LUTs: 112
-Total Logic LUTs available: 70560
-Total Logic LUT utilization percent: 0.16
-Memory LUTs: 0
-Total Memory LUTs available: 28800
-Total Memory LUT utilization percent: 0.00
